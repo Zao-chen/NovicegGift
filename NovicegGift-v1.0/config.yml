@@ -1,0 +1,22 @@
+join-title: "§e§l欢迎来到服务器"
+join-subtitle: "§a新手奖励已发放"
+join-command:
+  - "money give %player_name% 100"
+  - "give %player_name% minecraft:stone_axe"
+  - "give %player_name% minecraft:stone_hoe"
+  - "give %player_name% minecraft:stone_pickaxe"
+  - "give %player_name% minecraft:stone_shovel"
+  - "give %player_name% minecraft:stone_sword"
+  - "give %player_name% minecraft:log 32"
+  - "give %player_name% minecraft:apple 32"
+join-message:
+  - "§e[新手奖励] §a§l你获得了§r金币*1000"
+  - "§e[新手奖励] §a§l你获得了§r石斧*1"
+  - "§e[新手奖励] §a§l你获得了§r石锄*1"
+  - "§e[新手奖励] §a§l你获得了§r石镐*1"
+  - "§e[新手奖励] §a§l你获得了§r石铲*1"
+  - "§e[新手奖励] §a§l你获得了§r石剑*1"
+  - "§e[新手奖励] §a§l你获得了§r原木*32"
+  - "§e[新手奖励] §a§l你获得了§r苹果*32"
+join-record:
+  - "Zao_chen"

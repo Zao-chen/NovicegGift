@@ -1,0 +1,7 @@
+name: NovicegGift
+version: ${project.version}
+main: noviceggift.noviceggift.NovicegGift
+api-version: 1.15
+commands:
+  noviceggift:
+    description: 主指令

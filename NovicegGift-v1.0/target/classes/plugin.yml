@@ -1,0 +1,7 @@
+name: NovicegGift
+version: 1.0-SNAPSHOT
+main: noviceggift.noviceggift.NovicegGift
+api-version: 1.15
+commands:
+  noviceggift:
+    description: 主指令
